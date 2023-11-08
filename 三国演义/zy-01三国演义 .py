@@ -22,4 +22,6 @@ for ww6 in ww5:
     ww12 = ww11.find('div', class_='chapter_content')
     ww13 = ww12.text
     b1.write(ww7+":"+ww13+'\n')
-    print('ok')
+    print('下载完')
+
+
