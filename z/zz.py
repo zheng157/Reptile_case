@@ -1,5 +1,4 @@
-# 学号：20215102090065
-# 姓名：郑艺
+
 
 import requests
 import json
